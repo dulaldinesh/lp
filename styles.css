@@ -1,0 +1,85 @@
+/* styles.css */
+body {
+          font-family: Arial, sans-serif;
+          background-color: #f0f0f0;
+          color: #333;
+          margin: 0;
+          padding: 0;
+}
+
+header {
+          background-color: #ff69b4;
+          color: white;
+          padding: 20px;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+}
+
+header .logo {
+          font-size: 24px;
+}
+
+nav ul {
+          list-style: none;
+          padding: 0;
+          display: flex;
+}
+
+nav ul li {
+          margin: 0 10px;
+}
+
+nav ul li a {
+          color: white;
+          text-decoration: none;
+          transition: color 0.3s;
+}
+
+nav ul li a:hover {
+          color: yellow;
+}
+
+.search-bar {
+          display: flex;
+}
+
+.search-bar input {
+          padding: 5px;
+          font-size: 16px;
+}
+
+.search-bar button {
+          padding: 5px 10px;
+          background-color: white;
+          color: #ff69b4;
+          border: none;
+          cursor: pointer;
+          transition: background-color 0.3s;
+}
+
+.search-bar button:hover {
+          background-color: #ff1493;
+}
+
+.products {
+          padding: 20px;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+}
+
+.product {
+          background-color: white;
+          border: 1px solid #ccc;
+          border-radius: 10px;
+          margin: 10px;
+
+          [_ {
+                              {
+                                        {
+                                        CITATION {
+                                                            {
+                                                                      {
+                                                                      _1 {
+                                                                                ](https: //github.com/BrunoFred/Librabry-System/tree/4023e3e3d7c0968069dd81dc2baa1e1fc9d056f8/resources%2Fviews%2Fadmin%2Fcreate_user.php)[_{{{CITATION{{{_2{](https://github.com/Seltaeb87/portfolio/tree/f78988aa4c5efbe8567ce4e0d02c6e0548a03ef1/contact.php)
